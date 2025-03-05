@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "gun",
+            "prefix": "gun/"
+        },
+        {
+            "type": "directory",
+            "source": "weapon",
+            "prefix": "weapon/"
+        },
+        {
+            "type": "directory",
+            "source": "hand",
+            "prefix": "hand/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        }
+    ]
+}

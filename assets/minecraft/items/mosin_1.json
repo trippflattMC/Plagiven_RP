@@ -1,0 +1,27 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "plagiven:weapon/_1/mosin_1"
+			},
+			{
+				"type": "minecraft:special",
+				"base": "plagiven:hand/mosin/base/left",
+				"model": {
+				    "type": "minecraft:head",
+				    "kind": "player"
+				}
+			},
+			{
+				"type": "minecraft:special",
+				"base": "plagiven:hand/mosin/base/right",
+				"model": {
+				    "type": "minecraft:head",
+				    "kind": "player"
+				}
+			}
+		]
+	}
+}

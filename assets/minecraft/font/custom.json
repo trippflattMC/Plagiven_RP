@@ -1,0 +1,17 @@
+{
+	"providers": [
+		{
+			"type": "space",
+			"advances": {
+				"\u1939": -8
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/weapon_catalog_background.png",
+			"ascent": 13,
+			"height": 256,
+			"chars": ["\u1488"]
+		}
+	]
+}
