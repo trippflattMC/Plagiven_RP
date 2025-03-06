@@ -11,7 +11,7 @@
 		"models": [
 		  {
 			"type": "minecraft:model",
-			"model": "plagiven:weapon/_zoom_1/mosin_zoom_1"
+			"model": "plagiven:weapon/_zoom/deagle_zoom"
 		  },
 		  {
 			"type": "minecraft:special",
@@ -19,7 +19,7 @@
 			  "type": "minecraft:head",
 			  "kind": "player"
 			},
-			"base": "plagiven:hand/mosin/_zoom/left"
+			"base": "plagiven:hand/deagle/_zoom/left"
 		  },
 		  {
 			"type": "minecraft:special",
@@ -27,7 +27,7 @@
 			  "type": "minecraft:head",
 			  "kind": "player"
 			},
-			"base": "plagiven:hand/mosin/_zoom/right"
+			"base": "plagiven:hand/deagle/_zoom/right"
 		  }
 		]
 	  },
@@ -36,7 +36,7 @@
 		"models": [
 		  {
 			"type": "minecraft:model",
-			"model": "plagiven:weapon/_1/mosin_1"
+			"model": "plagiven:weapon/base/deagle"
 		  },
 		  {
 			"type": "minecraft:special",
@@ -44,7 +44,7 @@
 			  "type": "minecraft:head",
 			  "kind": "player"
 			},
-			"base": "plagiven:hand/mosin/base/left"
+			"base": "plagiven:hand/deagle/base/left"
 		  },
 		  {
 			"type": "minecraft:special",
@@ -52,7 +52,7 @@
 			  "type": "minecraft:head",
 			  "kind": "player"
 			},
-			"base": "plagiven:hand/mosin/base/right"
+			"base": "plagiven:hand/deagle/base/right"
 		  }
 		]
 	  }
