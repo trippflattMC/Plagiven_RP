@@ -7,6 +7,7 @@
 		{
 			"from": [4, 0, 4],
 			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 15, 0]},
 			"color": 7,
 			"faces": {
 				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
@@ -23,8 +24,8 @@
 			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [17, 151, -42],
-			"translation": [-8, 0, -8],
+			"rotation": [-154.08, 56.02, 174.18],
+			"translation": [-6.5, -2.5, -3],
 			"scale": [0.471, 0.515, 1.515]
 		},
 		"ground": {
