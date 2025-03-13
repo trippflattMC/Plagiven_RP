@@ -1,0 +1,61 @@
+{
+	"model": {
+	  "type": "minecraft:condition",
+	  "model": {
+		"type": "minecraft:decorated_pot"
+	  },
+	  "property": "minecraft:keybind_down",
+	  "keybind": "key.sneak",
+	  "on_true": {
+		"type": "minecraft:composite",
+		"models": [
+		  {
+			"type": "minecraft:model",
+			"model": "plagiven:weapon/_zoom/ppsh41_zoom"
+		  },
+		  {
+			"type": "minecraft:special",
+			"model": {
+			  "type": "minecraft:head",
+			  "kind": "player"
+			},
+			"base": "plagiven:hand/ppsh/_zoom/left"
+		  },
+		  {
+			"type": "minecraft:special",
+			"model": {
+			  "type": "minecraft:head",
+			  "kind": "player"
+			},
+			"base": "plagiven:hand/ppsh/_zoom/right"
+		  }
+		]
+	  },
+	  "on_false": {
+		"type": "minecraft:composite",
+		"models": [
+		  {
+			"type": "minecraft:model",
+			"model": "plagiven:weapon/base/ppsh41"
+		  },
+		  {
+			"type": "minecraft:special",
+			"model": {
+			  "type": "minecraft:head",
+			  "kind": "player"
+			},
+			"base": "plagiven:hand/ppsh/base/left"
+		  },
+		  {
+			"type": "minecraft:special",
+			"model": {
+			  "type": "minecraft:head",
+			  "kind": "player"
+			},
+			"base": "plagiven:hand/ppsh/base/right"
+		  }
+		]
+	  }
+	},
+	"hand_animation_on_swap": false
+  }
