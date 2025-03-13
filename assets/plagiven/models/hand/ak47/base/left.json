@@ -23,8 +23,8 @@
 			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [24, 149, -55],
-			"translation": [-8.5, 0.3414, -8.1882],
+			"rotation": [24, 158, -55],
+			"translation": [-8.5, -0.4086, -8.1882],
 			"scale": [0.471, 0.515, 1.515]
 		},
 		"ground": {
