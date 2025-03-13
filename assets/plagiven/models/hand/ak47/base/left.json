@@ -5,8 +5,8 @@
 	},
 	"elements": [
 		{
-			"from": [7, 7, 7],
-			"to": [9, 9, 9],
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
 			"color": 7,
 			"faces": {
 				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
@@ -23,8 +23,8 @@
 			"scale": [0, 0, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [7, 149, 0],
-			"translation": [-8, 1.8414, -3.6882],
+			"rotation": [24, 149, -55],
+			"translation": [-8.5, 0.3414, -8.1882],
 			"scale": [0.471, 0.515, 1.515]
 		},
 		"ground": {
