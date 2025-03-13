@@ -24,7 +24,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [17, 151, -42],
-			"translation": [-8, 0, -8],
+			"translation": [-8, 0, -10],
 			"scale": [0.471, 0.515, 1.515]
 		},
 		"ground": {
