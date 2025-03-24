@@ -1,29 +1,376 @@
 {
     "sources": [
         {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
+            "type": "single",
+            "resource": "plagiven:aviation/bombaridro_crocodilo"
         },
         {
-            "type": "directory",
-            "source": "gun",
-            "prefix": "gun/"
+            "type": "single",
+            "resource": "plagiven:misc/reticles"
         },
         {
-            "type": "directory",
-            "source": "weapon",
-            "prefix": "weapon/"
+            "type": "single",
+            "resource": "plagiven:misc/reticles_1024"
         },
         {
-            "type": "directory",
-            "source": "hand",
-            "prefix": "hand/"
+            "type": "single",
+            "resource": "plagiven:gun/akwood"
         },
         {
-            "type": "directory",
-            "source": "misc",
-            "prefix": "misc/"
+            "type": "single",
+            "resource": "plagiven:gun/akdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/metal_brighter"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/akplastic_cross"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/metal_dark"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/metal"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/holodetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/pso1details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/acogdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/kobradetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/augmag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/augdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/olive_polymer"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mk4details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rubber"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/deagledetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/metal_bright"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/famasdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/famasmag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/red_bright"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/red_faded"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/gray_darkest"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/gray_light"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/gray_bright"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/falwood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/faldetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/falwood_tilt"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/g3details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/olive_polymer_dark"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/glock17_polymer_dots"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/glock17details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/glock18_polymer_dots"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/glock18details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/brown_polymer_dark"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/ardetails2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m16mag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m16details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/1911wood_cross"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/1911details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m24details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m249details2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m249details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/copper"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/brass"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m4details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m4mag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m500wood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m500grip"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m500details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m500wood_tilt"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m590details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m82details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/tan_metal_dark"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rubber_cross"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/m9details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mac10details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/makarovplastic_cross"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/makarovdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/pudetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mosinsights"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mosindetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mosinwood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mp5details2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mp5details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mp7details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/mp7details2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/ppshwood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/ppshdetails2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/ppshdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rpg7details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rpg7wood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rpkwood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/rpkdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/tan_metal"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/scarhpolymer_cross"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/scarhdetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/tan_polymer"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/tan_polymer_bright"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/tan_metal_bright"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/spas12details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/stendetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/stendetails2"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/svdmag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/svddetails"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/svdwood_tilt"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/svdwood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/vz61wood"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/vz61grip"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/vz61details"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun/red_polymer_stripes"
         }
     ]
 }
